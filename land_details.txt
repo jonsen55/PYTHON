@@ -1,0 +1,12 @@
+501,Kathmandu,North,4,50000,Not Available
+502,Pokhara,East,5,60000,Not Available
+503,Lalitpur,South,10,100000,Not Available
+504,Bhaktapur,South,10,100000,Not Available
+505,Chitwan,South,10,100000,Not Available
+506,Nawalpur,North,4,50000,Not Available
+507,Nepalgunj,East,5,60000,Not Available
+508,Ilam,South,10,100000,Not Available
+509,Jhapa,South,10,100000,Not Available
+510,Mustang,South,10,100000,Not Available
+511,Hetauda,South,10,100000,Not Available
+512,Birgunj,North,4,50000,Not Available
